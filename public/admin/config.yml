@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: dev-digitaldream/blog-cms
   branch: main
 
 # Décommente pour développement local
