@@ -2,6 +2,8 @@ backend:
   name: github
   repo: dev-digitaldream/blog-cms
   branch: main
+  base_url: https://blogdd.netlify.app
+  auth_endpoint: /.netlify/functions/auth-callback
 
 # Décommente pour développement local
 # local_backend: true
